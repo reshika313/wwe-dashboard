@@ -12,3 +12,6 @@ Utilizing SQLite files to clean the data and produce a dashboard for the Women's
 5. Save the file to your desktop.
 
 6. Close the connection.
+
+Here is the dashboard that was created from the dataset:
+![Screenshot 2025-06-07 203439](https://github.com/user-attachments/assets/d2b1a4f7-aee2-47d5-a4dd-987478999617)
